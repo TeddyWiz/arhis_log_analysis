@@ -1,0 +1,315 @@
+2021-11-24 22:00:00,041 - INFO - Audio: not creating any file!!
+2021-11-24 22:00:02,759 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:00:02,772 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:00:05,089 - INFO - **** <recordAudio>::getImage_fswebcam:: Image writing is disabled
+2021-11-24 22:00:34,363 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:00:34,374 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.5, humi=1.0, sd=54, batt_per=0, batt_vol=9.418161079999999, mem=18.6, cpu=19.4, net=95.9, cpu_temp=59.4
+2021-11-24 22:00:35,286 - INFO - CLOUDCONNECTOR req_period_upload()
+2021-11-24 22:00:35,296 - INFO - CLOUDCONNECTOR req_period_upload, cant send in Sleep2
+2021-11-24 22:01:03,250 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:01:03,261 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:01:33,321 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:01:33,332 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.5, humi=1.0, sd=54, batt_per=0, batt_vol=9.410744639999999, mem=18.6, cpu=30.3, net=100, cpu_temp=59.9
+2021-11-24 22:01:38,349 - INFO - CLOUDCONNECTOR send_clientStatus, cant send in Sleep2
+2021-11-24 22:02:03,108 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:02:03,119 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:02:33,281 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:02:33,292 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.5, humi=1.0, sd=54, batt_per=0, batt_vol=9.40835224, mem=18.6, cpu=23.9, net=66.3, cpu_temp=59.4
+2021-11-24 22:03:03,462 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:03:03,473 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:03:33,243 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:03:33,253 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.5, humi=1.0, sd=54, batt_per=0, batt_vol=9.40895034, mem=18.6, cpu=26, net=64.0, cpu_temp=59.4
+2021-11-24 22:04:03,031 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:04:03,042 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:04:33,304 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:04:33,315 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.5, humi=1.0, sd=54, batt_per=0, batt_vol=9.38095926, mem=18.6, cpu=23.6, net=80.8, cpu_temp=59.4
+2021-11-24 22:05:03,788 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:05:03,799 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:05:35,375 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:05:35,386 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.4, humi=1.0, sd=54, batt_per=0, batt_vol=9.43000346, mem=18.6, cpu=22.2, net=65.1, cpu_temp=59.4
+2021-11-24 22:06:03,053 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:06:03,064 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:06:33,821 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:06:33,831 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.5, humi=1.0, sd=54, batt_per=0, batt_vol=9.41576868, mem=18.6, cpu=21.7, net=90.8, cpu_temp=59.9
+2021-11-24 22:07:02,591 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:07:02,602 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:07:34,375 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:07:34,385 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.5, humi=1.0, sd=54, batt_per=0, batt_vol=9.382514319999999, mem=18.6, cpu=21.4, net=91.1, cpu_temp=60.3
+2021-11-24 22:08:02,641 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:08:02,652 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:08:33,817 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:08:33,828 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.4, humi=1.0, sd=54, batt_per=0, batt_vol=9.41098388, mem=18.6, cpu=24.7, net=95.2, cpu_temp=58.9
+2021-11-24 22:09:02,684 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:09:02,695 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:09:33,269 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:09:33,280 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.4, humi=1.0, sd=54, batt_per=0, batt_vol=9.38311242, mem=18.6, cpu=19.1, net=96.4, cpu_temp=60.3
+2021-11-24 22:10:00,034 - INFO - Audio: not creating any file!!
+2021-11-24 22:10:02,650 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:10:02,660 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:10:05,075 - INFO - **** <recordAudio>::getImage_fswebcam:: Image writing is disabled
+2021-11-24 22:10:36,549 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:10:36,559 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.4, humi=1.0, sd=54, batt_per=0, batt_vol=9.392323159999998, mem=18.6, cpu=21.7, net=96.7, cpu_temp=59.9
+2021-11-24 22:10:37,471 - INFO - CLOUDCONNECTOR req_period_upload()
+2021-11-24 22:10:37,483 - INFO - CLOUDCONNECTOR req_period_upload, cant send in Sleep2
+2021-11-24 22:11:02,133 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:11:02,144 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:11:33,310 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:11:33,320 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.4, humi=1.0, sd=54, batt_per=0, batt_vol=9.407634519999998, mem=18.6, cpu=21.7, net=97.0, cpu_temp=59.9
+2021-11-24 22:11:38,338 - INFO - CLOUDCONNECTOR send_clientStatus, cant send in Sleep2
+2021-11-24 22:12:02,295 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:12:02,306 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:12:35,368 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:12:35,379 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.3, humi=1.0, sd=54, batt_per=0, batt_vol=9.42031424, mem=18.6, cpu=21.4, net=94.8, cpu_temp=59.4
+2021-11-24 22:13:02,535 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:13:02,546 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:13:34,912 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:13:34,923 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.3, humi=1.0, sd=54, batt_per=0, batt_vol=9.374260539999998, mem=18.6, cpu=24.3, net=99.8, cpu_temp=60.3
+2021-11-24 22:14:02,880 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:14:02,894 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:14:35,857 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:14:35,867 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.3, humi=1.0, sd=54, batt_per=0, batt_vol=9.41624716, mem=18.6, cpu=19.1, net=69.5, cpu_temp=58.9
+2021-11-24 22:15:03,029 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:15:03,040 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:15:34,903 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:15:34,914 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.3, humi=1.0, sd=54, batt_per=0, batt_vol=9.410625019999998, mem=18.6, cpu=27, net=70.6, cpu_temp=60.3
+2021-11-24 22:16:03,076 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:16:03,087 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:16:33,856 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:16:33,867 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.4, humi=1.0, sd=54, batt_per=0, batt_vol=9.389093419999998, mem=18.6, cpu=24.3, net=89.5, cpu_temp=59.4
+2021-11-24 22:17:02,720 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:17:02,731 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:17:34,296 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:17:34,307 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.3, humi=1.0, sd=54, batt_per=0, batt_vol=9.400218079999998, mem=18.6, cpu=21.1, net=70.5, cpu_temp=58.4
+2021-11-24 22:18:02,173 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:18:02,183 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:18:33,256 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:18:33,267 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.2, humi=1.0, sd=54, batt_per=0, batt_vol=9.3889738, mem=18.6, cpu=27, net=71.7, cpu_temp=59.4
+2021-11-24 22:19:03,928 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:19:03,939 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:19:33,296 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:19:33,307 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.3, humi=1.1, sd=54, batt_per=0, batt_vol=9.39328012, mem=18.6, cpu=27, net=68.2, cpu_temp=58.9
+2021-11-24 22:20:00,059 - INFO - Audio: not creating any file!!
+2021-11-24 22:20:03,075 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:20:03,086 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:20:05,102 - INFO - **** <recordAudio>::getImage_fswebcam:: Image writing is disabled
+2021-11-24 22:20:33,271 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:20:33,282 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.3, humi=1.1, sd=54, batt_per=0, batt_vol=9.402012379999999, mem=18.6, cpu=22.5, net=87.3, cpu_temp=60.8
+2021-11-24 22:20:37,900 - INFO - CLOUDCONNECTOR req_period_upload()
+2021-11-24 22:20:37,911 - INFO - CLOUDCONNECTOR req_period_upload, cant send in Sleep2
+2021-11-24 22:21:03,971 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:21:03,984 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:21:34,344 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:21:34,355 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.3, humi=1.0, sd=54, batt_per=0, batt_vol=9.39782568, mem=18.6, cpu=21.4, net=85.2, cpu_temp=58.9
+2021-11-24 22:21:38,271 - INFO - CLOUDCONNECTOR send_clientStatus, cant send in Sleep2
+2021-11-24 22:22:02,825 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:22:02,836 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:22:33,304 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:22:33,315 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.3, humi=1.0, sd=54, batt_per=0, batt_vol=9.37127004, mem=18.6, cpu=22.5, net=81.1, cpu_temp=59.9
+2021-11-24 22:23:03,378 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:23:03,389 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:23:33,859 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:23:33,870 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=40.5, humi=1.0, sd=54, batt_per=0, batt_vol=9.39579214, mem=18.6, cpu=25.4, net=95.1, cpu_temp=60.3
+2021-11-24 22:24:02,627 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:24:02,637 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:24:37,511 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:24:37,522 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.2, humi=1.0, sd=54, batt_per=0, batt_vol=9.373064339999999, mem=18.6, cpu=20, net=66.9, cpu_temp=59.4
+2021-11-24 22:25:03,677 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:25:03,688 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:25:33,849 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:25:33,860 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.3, humi=1.0, sd=54, batt_per=0, batt_vol=9.361221959999998, mem=18.6, cpu=24.3, net=69.7, cpu_temp=58.4
+2021-11-24 22:26:03,725 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:26:03,736 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:26:35,900 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:26:35,910 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.2, humi=1.0, sd=54, batt_per=0, batt_vol=9.38502634, mem=18.6, cpu=18.8, net=70.6, cpu_temp=59.4
+2021-11-24 22:27:03,171 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:27:03,182 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:27:33,852 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:27:33,863 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.2, humi=1.0, sd=54, batt_per=0, batt_vol=9.363853599999999, mem=18.6, cpu=20.3, net=103, cpu_temp=59.4
+2021-11-24 22:28:02,435 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:28:02,446 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:28:34,312 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:28:34,323 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.2, humi=1.0, sd=54, batt_per=0, batt_vol=9.381437739999999, mem=18.6, cpu=23.6, net=93.2, cpu_temp=59.4
+2021-11-24 22:29:03,286 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:29:03,297 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:29:33,269 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:29:33,280 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.2, humi=1.0, sd=54, batt_per=0, batt_vol=9.378686479999999, mem=18.6, cpu=18.8, net=71.8, cpu_temp=59.4
+2021-11-24 22:30:00,032 - INFO - Audio: not creating any file!!
+2021-11-24 22:30:03,348 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:30:03,359 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:30:05,073 - INFO - **** <recordAudio>::getImage_fswebcam:: Image writing is disabled
+2021-11-24 22:30:34,334 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:30:34,345 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.2, humi=1.9, sd=54, batt_per=0, batt_vol=9.374499779999999, mem=18.6, cpu=21.4, net=69.6, cpu_temp=58.4
+2021-11-24 22:30:34,556 - INFO - CLOUDCONNECTOR req_period_upload()
+2021-11-24 22:30:34,567 - INFO - CLOUDCONNECTOR req_period_upload, cant send in Sleep2
+2021-11-24 22:31:03,323 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:31:03,334 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:31:33,293 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:31:33,304 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.2, humi=1.0, sd=54, batt_per=0, batt_vol=9.35392514, mem=18.6, cpu=27.3, net=69.7, cpu_temp=59.4
+2021-11-24 22:31:38,323 - INFO - CLOUDCONNECTOR send_clientStatus, cant send in Sleep2
+2021-11-24 22:32:03,084 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:32:03,095 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:32:33,251 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:32:33,262 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.2, humi=1.0, sd=54, batt_per=0, batt_vol=9.359547280000001, mem=18.6, cpu=22.2, net=69.4, cpu_temp=58.4
+2021-11-24 22:33:03,218 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:33:03,231 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:33:33,303 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:33:33,314 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.1, humi=1.0, sd=54, batt_per=0, batt_vol=9.35392514, mem=18.6, cpu=24.7, net=66.8, cpu_temp=58.9
+2021-11-24 22:34:02,485 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:34:02,496 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:34:34,863 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:34:34,874 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.1, humi=1.0, sd=54, batt_per=0, batt_vol=9.3716289, mem=18.6, cpu=18.8, net=68.1, cpu_temp=58.9
+2021-11-24 22:35:02,933 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:35:02,944 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:35:33,803 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:35:33,814 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.1, humi=1.0, sd=54, batt_per=0, batt_vol=9.345671359999999, mem=18.6, cpu=28.4, net=97.1, cpu_temp=58.4
+2021-11-24 22:36:03,074 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:36:03,085 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:36:33,253 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:36:33,263 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.1, humi=1.0, sd=54, batt_per=0, batt_vol=9.372466239999998, mem=18.6, cpu=26, net=70.1, cpu_temp=59.9
+2021-11-24 22:37:04,030 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:37:04,041 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:37:34,909 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:37:34,924 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.1, humi=1.0, sd=54, batt_per=0, batt_vol=9.35392514, mem=18.6, cpu=19.1, net=93.0, cpu_temp=58.4
+2021-11-24 22:38:03,980 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:38:03,991 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:38:33,252 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:38:33,262 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.1, humi=1.0, sd=54, batt_per=0, batt_vol=9.3530878, mem=18.6, cpu=21.1, net=66.5, cpu_temp=58.4
+2021-11-24 22:39:02,919 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:39:02,930 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:39:33,307 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:39:33,317 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.1, humi=1.0, sd=54, batt_per=0, batt_vol=9.36469094, mem=18.6, cpu=20.3, net=73.3, cpu_temp=58.9
+2021-11-24 22:40:00,070 - INFO - Audio: not creating any file!!
+2021-11-24 22:40:02,786 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:40:02,797 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:40:05,111 - INFO - **** <recordAudio>::getImage_fswebcam:: Image writing is disabled
+2021-11-24 22:40:34,371 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:40:34,382 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.0, humi=1.0, sd=54, batt_per=0, batt_vol=9.34794414, mem=18.6, cpu=30.6, net=97.9, cpu_temp=59.4
+2021-11-24 22:40:39,301 - INFO - CLOUDCONNECTOR req_period_upload()
+2021-11-24 22:40:39,312 - INFO - CLOUDCONNECTOR req_period_upload, cant send in Sleep2
+2021-11-24 22:41:02,765 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:41:02,776 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:41:33,237 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:41:33,248 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.0, humi=1.0, sd=54, batt_per=0, batt_vol=9.35536058, mem=18.6, cpu=27.8, net=70.8, cpu_temp=58.9
+2021-11-24 22:41:38,368 - INFO - CLOUDCONNECTOR send_clientStatus, cant send in Sleep2
+2021-11-24 22:42:03,721 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:42:03,732 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:42:34,305 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:42:34,316 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.0, humi=1.0, sd=54, batt_per=0, batt_vol=9.34973844, mem=18.6, cpu=29.2, net=67.5, cpu_temp=58.9
+2021-11-24 22:43:03,072 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:43:03,083 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:43:33,754 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:43:33,765 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.0, humi=1.0, sd=54, batt_per=0, batt_vol=9.327130259999999, mem=18.6, cpu=18.8, net=70.8, cpu_temp=59.4
+2021-11-24 22:44:03,833 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:44:03,845 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:44:33,811 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:44:33,822 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.1, humi=1.0, sd=54, batt_per=0, batt_vol=9.33299164, mem=18.6, cpu=24.7, net=88.4, cpu_temp=59.4
+2021-11-24 22:45:03,592 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:45:03,603 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:45:33,761 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:45:33,772 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.0, humi=1.0, sd=54, batt_per=0, batt_vol=9.31373282, mem=18.6, cpu=17.6, net=69.5, cpu_temp=59.4
+2021-11-24 22:46:02,728 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:46:02,739 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:46:34,409 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:46:34,419 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.0, humi=1.0, sd=54, batt_per=0, batt_vol=9.342322, mem=18.6, cpu=26.4, net=97.2, cpu_temp=58.9
+2021-11-24 22:47:03,990 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:47:04,004 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:47:33,263 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:47:33,274 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.0, humi=1.0, sd=54, batt_per=0, batt_vol=9.348063759999999, mem=18.6, cpu=24.7, net=97.8, cpu_temp=58.4
+2021-11-24 22:48:02,234 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:48:02,245 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:48:33,303 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:48:33,315 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.0, humi=1.0, sd=54, batt_per=0, batt_vol=9.350815019999999, mem=18.6, cpu=23.6, net=72.5, cpu_temp=58.9
+2021-11-24 22:49:02,271 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:49:02,282 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:49:34,342 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:49:34,353 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.0, humi=1.0, sd=54, batt_per=0, batt_vol=9.32091002, mem=18.6, cpu=21.1, net=90.0, cpu_temp=59.4
+2021-11-24 22:50:00,010 - INFO - Audio: not creating any file!!
+2021-11-24 22:50:02,725 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:50:02,736 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:50:05,051 - INFO - **** <recordAudio>::getImage_fswebcam:: Image writing is disabled
+2021-11-24 22:50:30,211 - INFO - CLOUDCONNECTOR req_period_upload()
+2021-11-24 22:50:30,222 - INFO - CLOUDCONNECTOR req_period_upload, cant send in Sleep2
+2021-11-24 22:50:35,440 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:50:35,451 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=40.9, humi=1.0, sd=54, batt_per=0, batt_vol=9.312417, mem=18.6, cpu=21.4, net=92.3, cpu_temp=58.9
+2021-11-24 22:51:03,410 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:51:03,422 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:51:33,283 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:51:33,294 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=40.9, humi=1.0, sd=54, batt_per=0, batt_vol=9.332154300000001, mem=18.6, cpu=23.9, net=95.5, cpu_temp=58.4
+2021-11-24 22:51:38,312 - INFO - CLOUDCONNECTOR send_clientStatus, cant send in Sleep2
+2021-11-24 22:52:02,960 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:52:02,971 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:52:33,830 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:52:33,841 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.0, humi=1.0, sd=54, batt_per=0, batt_vol=9.33980998, mem=18.6, cpu=20.8, net=98.1, cpu_temp=58.9
+2021-11-24 22:53:02,306 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:53:02,318 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:53:33,785 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:53:33,797 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.0, humi=1.0, sd=54, batt_per=0, batt_vol=9.325934059999998, mem=18.6, cpu=21.1, net=66.7, cpu_temp=59.4
+2021-11-24 22:54:02,976 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:54:02,987 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:54:35,355 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:54:35,366 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=41.0, humi=1.0, sd=54, batt_per=0, batt_vol=9.308948019999999, mem=18.6, cpu=22.5, net=71.3, cpu_temp=59.4
+2021-11-24 22:55:02,225 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:55:02,236 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:55:34,302 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:55:34,313 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=40.9, humi=1.0, sd=54, batt_per=0, batt_vol=9.324498619999998, mem=18.6, cpu=27, net=85.9, cpu_temp=58.9
+2021-11-24 22:56:02,164 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:56:02,175 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:56:33,238 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:56:33,249 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=40.9, humi=1.0, sd=54, batt_per=0, batt_vol=9.33059924, mem=18.6, cpu=24.6, net=67.3, cpu_temp=59.4
+2021-11-24 22:57:03,512 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:57:03,522 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:57:33,287 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:57:33,297 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=40.9, humi=1.1, sd=54, batt_per=0, batt_vol=9.32689102, mem=18.6, cpu=27.1, net=93.1, cpu_temp=58.9
+2021-11-24 22:58:03,162 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:58:03,173 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:58:33,234 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:58:33,244 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=40.9, humi=1.0, sd=54, batt_per=0, batt_vol=9.29961766, mem=18.6, cpu=25.7, net=72.5, cpu_temp=58.9
+2021-11-24 22:59:02,607 - INFO - CLOUDCONNECTOR req_analysis()
+2021-11-24 22:59:02,618 - INFO - CLOUDCONNECTOR req_analysis, cant send in Sleep2
+2021-11-24 22:59:33,310 - INFO - ARHISMAIN Update Device Status: active_mode=Sleep2, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:59:33,321 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=40.9, humi=1.0, sd=54, batt_per=0, batt_vol=9.278803779999999, mem=18.6, cpu=29.7, net=68.3, cpu_temp=58.9
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                2021-11-24 22:33:27,201 - INFO - logTask is starting...
+2021-11-24 22:33:27,503 - INFO - [dbTask] is initialized
+2021-11-24 22:33:27,514 - DEBUG - /home/pi/wiznet/skp_arhis/db_folder/filename_db folder exists
+2021-11-24 22:33:27,525 - INFO - fileDBHandler, db_folder: /home/pi/wiznet/skp_arhis/db_folder/filename_db
+2021-11-24 22:33:27,536 - INFO - fileDBHandler is started
+2021-11-24 22:33:27,546 - INFO - fileDBHandler, update_sqlstmt() was called
+2021-11-24 22:33:27,557 - DEBUG - /home/pi/wiznet/skp_arhis/db_folder/mle_db folder exists
+2021-11-24 22:33:27,567 - INFO - MLDBHandler, db_folder: /home/pi/wiznet/skp_arhis/db_folder/mle_db
+2021-11-24 22:33:27,578 - INFO - MLDBHandler is started
+2021-11-24 22:33:27,689 - INFO - MLDBHandler, update_sqlstmt() was called
+2021-11-24 22:33:30,507 - DEBUG - ARHISMAIN check_dev_info, 10000000593d9925
+2021-11-24 22:33:32,623 - INFO - ARHISMAIN Update Device Status: active_mode=Normal, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:33:32,633 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=30.1, humi=10.2, sd=54, batt_per=10, batt_vol=10.16781962, mem=8.3, cpu=54.1, net=0, cpu_temp=41.8
+2021-11-24 22:33:33,245 - INFO - ARHISMAIN Start ..
+2021-11-24 22:33:34,758 - INFO - CLOUDCONNECTOR Waiting ..
+2021-11-24 22:33:39,675 - INFO - CLOUDCONNECTOR Starting ...
+2021-11-24 22:33:39,686 - INFO - CLOUDCONNECTOR Wait Network Connected...
+2021-11-24 22:33:40,899 - INFO - <recordAudio> recording soundDecibel will be changed to 14 from 10
+2021-11-24 22:33:40,910 - INFO - <recordAudio> active mode will be changed to Sleep2 from Normal
+2021-11-24 22:33:40,920 - INFO - <recordAudio> FWRITEFILE will be changed to False from True
+2021-11-24 22:33:41,231 - INFO - recordAudio ADD_JOBS, [<Job (id=doRecord name=recordAudio.doRecord)>, <Job (id=capture_image name=recordAudio.getImage_fswebcam)>, <Job (id=process_message name=recordAudio.run_async)>, <Job (id=capture_image_first name=recordAudio.getImage_fswebcam)>]
+2021-11-24 22:33:41,242 - INFO - recordAudio Start ..
+2021-11-24 22:33:41,253 - INFO - **** <recordAudio>::getImage_fswebcam:: Image writing is disabled
+2021-11-24 22:33:41,265 - INFO - <recordAudio> ******** starting reading audio with sr=44100, chunksize=2048...
+2021-11-24 22:33:49,687 - INFO - CLOUDCONNECTOR Starting ...
+2021-11-24 22:33:49,698 - INFO - CLOUDCONNECTOR Wait Network Connected...
+2021-11-24 22:33:50,409 - INFO - <MlManager> active mode will be changed to Sleep2 from Normal
+2021-11-24 22:33:50,420 - INFO - <MlManager> FWRITEFILE will be changed to False from True
+2021-11-24 22:33:50,430 - INFO - <MlManager> FANALYSIS will be changed to False from True
+2021-11-24 22:33:50,441 - INFO - <MlManager> [load_env_config]
+2021-11-24 22:33:50,451 - INFO - <MlManager> env_config: {'anomal': {'active': '/home/pi/wiznet/skp_arhis/resource/anomal', 'backup': '/home/pi/wiznet/skp_arhis/BACKUP/anomal', 'version': '0.0.0'}, 'app': {'active': '/home/pi/wiznet/skp_arhis/app', 'backup': '/home/pi/wiznet/skp_arhis/BACKUP/app', 'update': '/home/pi/wiznet/skp_arhis/appA', 'version': '0.0.0'}, 'env': {'active': '/home/pi/wiznet/venvA', 'backup': '/home/pi/wiznet/venvB', 'version': '0.0.0'}, 'model': {'active': '/home/pi/wiznet/skp_arhis/resource/model', 'backup': '/home/pi/wiznet/skp_arhis/BACKUP/model', 'version': '0.0.0'}}
+2021-11-24 22:33:50,462 - INFO - MlManager version_check: 0.9.97 >= '0.9.9'
+2021-11-24 22:33:50,472 - INFO - <MlManager> Start ..
+2021-11-24 22:33:59,696 - INFO - CLOUDCONNECTOR Starting ...
+2021-11-24 22:34:02,810 - INFO - CLOUDCONNECTOR Wait Network Connected...
+2021-11-24 22:34:12,835 - INFO - CLOUDCONNECTOR Starting ...
+2021-11-24 22:34:15,850 - INFO - CLOUDCONNECTOR Wait Network Connected...
+2021-11-24 22:34:25,875 - INFO - CLOUDCONNECTOR Starting ...
+2021-11-24 22:34:28,990 - INFO - CLOUDCONNECTOR Wait Network Connected...
+2021-11-24 22:34:37,812 - INFO - ARHISMAIN Update Device Status: active_mode=Normal, run_mode=Normal, device_mode=deviceBatteryLow
+2021-11-24 22:34:37,822 - INFO - ARHISMAIN Update Device Status: batt_type=1, temp=30.2, humi=10.1, sd=54, batt_per=20, batt_vol=10.470458220000001, mem=13.9, cpu=10, net=0, cpu_temp=42.3
+2021-11-24 22:34:39,034 - INFO - CLOUDCONNECTOR Starting ...
+2021-11-24 22:34:42,049 - INFO - CLOUDCONNECTOR Wait Network Connected...
+2021-11-24 22:34:52,074 - INFO - CLOUDCONNECTOR Starting ...
+2021-11-24 22:35:02,098 - INFO - CLOUDCONNECTOR Wait Network Connected...
